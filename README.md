@@ -12,3 +12,5 @@ Documents present in this repository:
 - Blender model of Earth (.blend)
 - IGRF model (.pdf)
 - Received data from the ISS (.zip)
+
+Contact our team via e-mail: lourencogfaria@gmail.com
