@@ -9,7 +9,7 @@ Special thanks: Professor Nuno Sá (UAC), Teacher Maria Beatriz Cachim
 Documents present in this repository:
 - PDF explaining the theory behind the dipole aproximation and multipolar expansion (.pdf)
 - 2 highly detailed Wolfram Mathematica files (.nb)
-- Blender model of Earth (.blend)
+- Blender model of the Earth (.blend)
 - IGRF model (.pdf)
 - Received data from the ISS (.zip)
 
