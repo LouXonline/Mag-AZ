@@ -10,4 +10,4 @@ Documents present in this repository:
 - PDF explaining the theory behind the dipole aproximation and multipolar expansion (.pdf)
 - 2 highly detailed Wolfram Mathematica files (.nb)
 - Blender model of Earth (.blend)
-- 
+- IGRF model (.pdf)
